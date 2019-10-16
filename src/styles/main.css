@@ -1,0 +1,15 @@
+.flex-me {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 50%;
+    justify-content: space-evenly;
+}
+
+#one1 {
+    border: 2px solid blue;
+    
+}
+
+#two2 {
+    border: 2px solid red;
+}
